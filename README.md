@@ -25,7 +25,7 @@ A high-performance, browser-based utility designed to remove AI-generated waterm
 ## Access the Tool
 
 Visit the live page to start cleaning your images:
-[https://sharp.digital/gemini-watermark-remover](https://sharp.digital/gemini-watermark-remover)
+[https://www.sharpdigital.in/gemini-watermark-remover](https://www.sharpdigital.in/gemini-watermark-remover)
 
 ---
 *Developed by Sharp Digital.*
